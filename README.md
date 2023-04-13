@@ -9,3 +9,4 @@ The rules of the game assumed by this calculator are:
 - You can use addition, subtraction, multiplication, division
 
 TODO add exponentiation support
+TODO remove redundant solutions
